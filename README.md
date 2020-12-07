@@ -2,7 +2,7 @@
     <img width="250" height="250" src="https://user-images.githubusercontent.com/48743729/98465213-017ebd80-220b-11eb-8320-fae6d8db16fb.png" alt="rightglow">
     <p>
         <sup>
-            <h1 href="https://github.com/rightglow">rightglow</h1>
+            <h1 href="https://github.com/glowing713">Sunhwan</h1>
         </sup>
     </p>
 </div>
@@ -10,11 +10,11 @@
 <br>
 
 ### Status
-<!-- |![rightglow's github stats](https://github-readme-stats.vercel.app/api?username=rightglow&show_icons=true&theme=onedark)| -->
+<!-- |![glowing713's github stats](https://github-readme-stats.vercel.app/api?username= glowing713&show_icons=true&theme=onedark)| -->
 
 |BOJ tier|Most Used Language|
 |:--------:|:------:|
-|[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=glowing713)](https://solved.ac/glowing713)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rightglow&layout=compact)](https://github.com/rightglow/github-readme-stats)|
+|[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=glowing713)](https://solved.ac/glowing713)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glowing713&layout=compact)](https://github.com/glowing713/github-readme-stats)|
 
 <br>
 
