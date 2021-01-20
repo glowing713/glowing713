@@ -19,6 +19,6 @@
 <br>
 
 ### About me
-- 🏃🏻‍♂️ 4학년 2학기 컴퓨터 공학 학부 재학 중 입니다.
-- 🏅 알고리즘 문제 풀이를 공부하며 [블로그](https://glowdev.tistory.com)에 기록하고 있습니다. (C++, Python)
-- 🧑🏻‍💻 iOS 개발과 JAVA Spring framework를 공부하고 있습니다.
+- 🧑🏻‍💻 Boostcamp AI Tech에서 AI 개발자 과정을 공부하고 있습니다.
+- 🏅 [개발 블로그](https://glowdev.tistory.com)
+- 🏃🏻‍♂️ 2021년 2월 컴퓨터 공학 학부 졸업예정 입니다.
