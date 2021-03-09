@@ -21,4 +21,3 @@
 ### About me
 - 🧑🏻‍💻 Boostcamp AI Tech에서 AI 개발자 과정을 공부하고 있습니다.
 - 🏅 [개발 블로그](https://glowdev.tistory.com)
-- 🏃🏻‍♂️ 2021년 2월 컴퓨터 공학 학부 졸업예정 입니다.
