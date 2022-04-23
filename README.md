@@ -4,7 +4,7 @@ Hi 👋 My name is Sunhwan(Sean)
 Frontend Engineer
 -----------------
 
-I started Frontend Developing at boostcamp AI Tech 1st(Naver Connect). During the project, our team shared an opinion that we'd like to see the performance of the model more easily. As a result, we developed a web application that provides the performance of the model as an simple image data when user inputs a csv data. I felt very rewarding seeing my colleagues happy with the result, and I've been studying Frontend Developing since then. Recently, I'm studying Vanilla JS and the operating principles of the browser with "Modern JavaScript Deep Dive", and developing practical abilities through projects based on React.js and Vue.js.
+I started Frontend Developing at boostcamp AI Tech 1st(Naver Connect). During the project, our team shared an opinion that we'd like to see the performance of the model more easily. As a result, we developed a web application that provides the performance of the model as an chart image when user inputs a csv data. I felt very rewarding seeing my colleagues happy with the result, and I've been studying Frontend Developing since then. Recently, I'm studying Vanilla JS and the operating principles of the browser with "Modern JavaScript Deep Dive", and developing practical abilities through projects based on React.js and Vue.js.
 
 * 🌍  I'm based in South Korea
 * 🖥️  See my portfolio at [Notion](http://bit.ly/3IVl8Sx)
