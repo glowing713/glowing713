@@ -1,4 +1,4 @@
-Hi 👋 My name is Sunhwan(Sean) Lee
+Hi 👋 My name is Sunhwan(Sean)
 ==================================
 
 Frontend Engineer
