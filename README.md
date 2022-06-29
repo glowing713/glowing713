@@ -1,4 +1,4 @@
-## Hi 👋 My name is Sunhwan(Sean)
+# Hi 👋 My name is Sunhwan(Sean)
 
 I'm **Frontend Engineer** at MUSINSA Co., Ltd. (Fashion Tech Platform, MAU over 4Million).
 
