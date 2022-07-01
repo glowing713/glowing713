@@ -4,10 +4,10 @@ I'm **Frontend Engineer** at MUSINSA Co., Ltd. (Fashion Tech Platform, MAU over 
 
 ### I'm...
 * 🌍  Based in Seoul, South Korea
-* 📱  Developing MUSINSA Mobile Web searching platform with SPA
-* 🏃🏻  Working on TypeScript | react.js(hook) | react-query | recoil | yarn pnp
+* 📱  Developing MUSINSA Mobile Web searching platform with React.js
+* 🏃🏻  Working on TypeScript | React.js(hook) | react-query | redux/recoil | yarn pnp
 * 🔎  Interested in Node.js | Next.js(SSR, SSG)
-* ✉️  You can contact me at [leesunhwankr@gmail.com](mailto:leesunhwankr@gmail.com)
+* ✉️  You can contact me at [glowing713@naver.com](mailto:glowing713@naver.com)
 
 ### Skills
 
