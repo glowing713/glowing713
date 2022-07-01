@@ -7,7 +7,7 @@ I'm **Frontend Engineer** at MUSINSA Co., Ltd. (Fashion Tech Platform, MAU over 
 * 📱  Developing MUSINSA Mobile Web searching platform with React.js
 * 🏃🏻  Working on TypeScript | React.js(hook) | react-query | redux/recoil | yarn pnp
 * 🔎  Interested in Node.js | Next.js(SSR, SSG)
-* ✉️  You can contact me at [glowing713@naver.com](mailto:glowing713@naver.com)
+* ✉️  You can contact me at [sunhwan.lee13@gmail.com](mailto:sunhwan.lee13@gmail.com)
 
 ### Skills
 
