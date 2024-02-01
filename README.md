@@ -1,12 +1,9 @@
 # Hi 👋 My name is Sunhwan(Sean)
 
-I'm **Frontend Engineer** at MUSINSA Co., Ltd. (Fashion Tech Platform, MAU over 4Million).
+I'm **Frontend Engineer** at NAVER corp.
 
 ### I'm...
 * 🌍  Based in Seoul, South Korea
-* 📱  Developing MUSINSA Mobile Web searching platform with React.js
-* 🏃🏻  Working on TypeScript | React.js(hook) | react-query | recoil/jotai | yarn berry
-* 🔎  Interested in Next.js
 * ✉️  You can contact me at [sunhwan.lee13@gmail.com](mailto:sunhwan.lee13@gmail.com)
 
 ### Skills
